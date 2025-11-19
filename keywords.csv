@@ -10,6 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.232709162690286
 'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,1,0.2277831737891975
 'Hurrikan Warnung',de,Mitigation,#b437cf,#b237ff,2,0.2247161827104924
-'Hurrikan Ozean',de,Causes,#b28765,#b28765,1,0.1070492280109793
+'Hurrikan Ozean',de,Causes,#b28765,#b28765,1,0.09144188880933239
 'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0898057621974977
 'Medicane',de,Hazard,#3297f5,#4287f5,1,0.0723975152635519
