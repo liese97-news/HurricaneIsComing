@@ -7,7 +7,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,3,0.2014739108952109
 'Hurrikan Warnung',de,Mitigation,#b437cf,#b237ff,2,0.2000504143948276
 'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,3,0.1964311598030026
-'Taifun',de,Hazard,#5287f5,#4287f5,3,0.1962096622894922
+'Taifun',de,Hazard,#5287f5,#4287f5,3,0.17582135703697743
 'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.1585713173863459
 'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.1446729405621717
 'Hurrikan Ozean',de,Causes,#b28765,#b28765,1,0.0781756504879324
