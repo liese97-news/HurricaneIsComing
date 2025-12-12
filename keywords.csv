@@ -9,7 +9,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropensturm',de,Hazard,#5297f5,#4287d5,2,0.144446929932508
 'Hurrikan',de,Hazard,#4287e5,#4287f5,2,0.1424785034637035
 'Hurrikan Ozean',de,Causes,#b28765,#b28765,1,0.1211993779147425
-'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.11456777681163491
 'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.104526199556169
+'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.09738261028988966
 'Medicane',de,Hazard,#3297f5,#4287f5,1,0.0167684914038353
 'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0150283875481471
