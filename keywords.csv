@@ -1,8 +1,8 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,3,0.1760079499234613
 'Wirbelsturm',de,Hazard,#3287e5,#4287f5,3,0.1662129059909951
 'Wirbelsturm Schäden',de,Impacts,#12a8e5,#02a7f5,3,0.1514923164339825
 'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,2,0.1510016520186181
+'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,3,0.15080687743494212
 'Hurrikan Warnung',de,Mitigation,#b437cf,#b237ff,1,0.1446864521502629
 'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,1,0.1446595231330342
 'Hurrikan',de,Hazard,#4287e5,#4287f5,2,0.1424785034637035
@@ -12,4 +12,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.104526199556169
 'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.0973826102898896
 'Medicane',de,Hazard,#3297f5,#4287f5,1,0.0167684914038353
-'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.00922930850300577
+'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0092293085030057
