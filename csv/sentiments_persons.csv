@@ -1,26 +1,26 @@
 ,phrase,label,sentiment,subjectivity,language,count
-Hurrikan Melissa,Hurrikan Melissa,PER,-0.23423423423423426,0.022522522522522525,de,22.2
+Hurrikan Melissa,Hurrikan Melissa,PER,-0.22510822510822515,0.021645021645021648,de,23.099999999999998
 "Supertaifun ""Fung-Wong","Supertaifun ""Fung-Wong",PER,0.0,0.0,de,5.0
 Donald Trump,Donald Trump,PER,0.2702702702702703,0.2702702702702703,de,3.6999999999999997
 Tropischer Wirbelsturm,Tropischer Wirbelsturm,PER,0.0,0.0,de,3.0
 Andrew Holness,Andrew Holness,PER,-0.8793103448275862,0.0,de,2.9
 Jamaikas Ministerpräsident,Jamaikas Ministerpräsident,PER,0.0,0.0,de,2.8
 Gulf Livestock,Gulf Livestock,PER,-0.35714285714285715,0.0,de,2.8
-"Taifun ""Fung-Wong","Taifun ""Fung-Wong",PER,0.0,0.0,de,1.9
 Miguel Díaz-Canel,Miguel Díaz-Canel,PER,0.5263157894736842,0.5263157894736842,de,1.9
-Wirbelsturm Melissa,Wirbelsturm Melissa,PER,0.0,0.0,de,1.0
-Supertaifun Fung-wong,Supertaifun Fung-wong,PER,0.0,0.0,de,1.0
+"Taifun ""Fung-Wong","Taifun ""Fung-Wong",PER,0.0,0.0,de,1.9
+Sprint-Weltmeister Usain Bolt,Sprint-Weltmeister Usain Bolt,PER,0.0,0.0,de,1.9
 Interred Cooperación,Interred Cooperación,PER,0.0,0.0,de,1.0
 Supertaifun «Fung-Wong,Supertaifun «Fung-Wong,PER,-0.7,0.0,de,1.0
-Brendan Mooney,Brendan Mooney,PER,-0.7,0.0,de,1.0
-Kuba Nothilfe,Kuba Nothilfe,PER,0.0,0.0,de,1.0
-Tödlicher Sturm „Melissa,Tödlicher Sturm „Melissa,PER,0.0,0.0,de,1.0
 Lothar Reininger,Lothar Reininger,PER,0.0,0.0,de,1.0
-"Taifun ""Bualoi","Taifun ""Bualoi",PER,0.0,0.0,de,1.0
+Wirbelsturm Melissa,Wirbelsturm Melissa,PER,0.0,0.0,de,1.0
+Brendan Mooney,Brendan Mooney,PER,-0.7,0.0,de,1.0
+Supertaifun Fung-wong,Supertaifun Fung-wong,PER,0.0,0.0,de,1.0
 Fung Wong,Fung Wong,PER,0.0,0.0,de,1.0
-Jamaikas Flughäfen,Jamaikas Flughäfen,PER,0.0,0.0,de,1.0
-Aurora befin,Aurora befin,PER,0.0,0.0,de,1.0
+Kuba Nothilfe,Kuba Nothilfe,PER,0.0,0.0,de,1.0
+"Taifun ""Bualoi","Taifun ""Bualoi",PER,0.0,0.0,de,1.0
 Supertaifun „Fung-Wong,Supertaifun „Fung-Wong,PER,0.0,0.0,de,1.0
+Aurora befin,Aurora befin,PER,0.0,0.0,de,1.0
+"Tödlicher Sturm ""Melissa","Tödlicher Sturm ""Melissa",PER,0.0,0.0,de,1.0
 Taifun „Fung-wong“,Taifun „Fung-wong“,PER,0.0,0.0,de,1.0
 "Taifun ""Fung-wong","Taifun ""Fung-wong",PER,0.0,0.0,de,1.0
 jahrhundertealtes Schiffswrack,jahrhundertealtes Schiffswrack,PER,0.7,0.0,de,1.0
@@ -28,10 +28,11 @@ Jakob Mayr,Jakob Mayr,PER,0.0,0.0,de,1.0
 Ferdinand Marcos,Ferdinand Marcos,PER,-0.9,0.0,de,1.0
 Raphael Schuh,Raphael Schuh,PER,0.0,0.0,de,1.0
 Gulf L,Gulf L,PER,0.0,0.0,de,1.0
-"Tödlicher Sturm ""Melissa","Tödlicher Sturm ""Melissa",PER,0.0,0.0,de,1.0
-"Hurrikan ""Melissa","Hurrikan ""Melissa",PER,-0.7,0.0,de,1.0
-Jamaikas Ärzteverband,Jamaikas Ärzteverband,PER,0.0,0.0,de,1.0
+Wirbelsturm Ditwah,Wirbelsturm Ditwah,PER,0.7,0.0,de,1.0
+Tödlicher Sturm „Melissa,Tödlicher Sturm „Melissa,PER,0.0,0.0,de,1.0
 Reggae-Musiker Shaggy,Reggae-Musiker Shaggy,PER,0.0,0.0,de,1.0
+Jamaikas Flughäfen,Jamaikas Flughäfen,PER,0.0,0.0,de,1.0
+Monstersturm „Melissa,Monstersturm „Melissa,PER,0.0,0.0,de,1.0
 Roborock H60,Roborock H60,PER,0.0,0.0,de,1.0
 Trumps Anhängerschaft,Trumps Anhängerschaft,PER,0.7,0.0,de,1.0
 Donald Trump ,Donald Trump ,PER,-1.0,0.0,de,1.0
@@ -42,8 +43,8 @@ Durchzug von Tropensturm,Durchzug von Tropensturm,PER,0.0,0.0,de,1.0
 Steven Anaver,Steven Anaver,PER,0.0,0.0,de,1.0
 Rainer Buchhop,Rainer Buchhop,PER,0.0,0.0,de,1.0
 Jamaikas Regierungschef,Jamaikas Regierungschef,PER,-1.4,0.0,de,1.0
-Monstersturm „Melissa,Monstersturm „Melissa,PER,0.0,0.0,de,1.0
 Michael Taylor,Michael Taylor,PER,0.0,0.0,de,1.0
+Jamaikas Ärzteverband,Jamaikas Ärzteverband,PER,0.0,0.0,de,1.0
 Jamaikas Küste,Jamaikas Küste,PER,1.0,0.0,de,1.0
 Windgeschwindigkeiten vo,Windgeschwindigkeiten vo,PER,0.0,0.0,de,1.0
 Jahrhundertsturm Melissa,Jahrhundertsturm Melissa,PER,0.0,0.0,de,1.0
@@ -52,5 +53,6 @@ Unblock Cuba,Unblock Cuba,PER,0.0,0.0,de,1.0
 Durchzug von Melissa,Durchzug von Melissa,PER,0.0,0.0,de,1.0
 Dana M,Dana M,PER,0.0,0.0,de,1.0
 Dana Morris Dixon,Dana Morris Dixon,PER,-0.2333333333333333,0.0,de,1.0
+"Hurrikan ""Melissa","Hurrikan ""Melissa",PER,-0.7,0.0,de,1.0
 Taifun Bualoi,Taifun Bualoi,PER,-0.2333333333333333,0.6666666666666666,de,1.0
-Wirbelsturm Ditwah,Wirbelsturm Ditwah,PER,0.7,0.0,de,1.0
+Colombo Wirbelsturm,Colombo Wirbelsturm,PER,0.0,0.0,de,1.0
