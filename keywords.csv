@@ -11,5 +11,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hurrikan',de,Hazard,#4287e5,#4287f5,1,0.0861505905619861
 'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.075797706929332
 'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.0703589359344451
-'Medicane',de,Hazard,#3297f5,#4287f5,1,0.0102979497833803
+'Medicane',de,Hazard,#3297f5,#4287f5,1,0.008753257315873255
 'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0078449122275548
