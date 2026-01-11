@@ -11,5 +11,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hurrikan Ozean',de,Causes,#b28765,#b28765,1,0.0542881180408726
 'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,1,0.0472034270231219
 'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.0225554628164312
-'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0066681753934215
-'Medicane',de,Hazard,#3297f5,#4287f5,1,0.0010583168960834098
+'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.005667949084408275
+'Medicane',de,Hazard,#3297f5,#4287f5,1,0.0010583168960834
