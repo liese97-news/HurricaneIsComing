@@ -10,6 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,1,0.0472034270231219
 'Hurrikan Warnung',de,Mitigation,#b437cf,#b237ff,1,0.0465331765440755
 'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,1,0.0402120280516536
-'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.0191721433939665
-'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0034808292314620804
+'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.016296321884871526
+'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.003480829231462
 'Medicane',de,Hazard,#3297f5,#4287f5,1,0.000649938863807
