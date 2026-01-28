@@ -11,5 +11,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,1,0.0290531902673196
 'Tropensturm',de,Hazard,#5297f5,#4287d5,1,0.0225566669628009
 'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.0100079786775465
-'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.00213766425177152
-'Medicane',de,Hazard,#3297f5,#4287f5,1,0.0004695808291005
+'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0021376642517715
+'Medicane',de,Hazard,#3297f5,#4287f5,1,0.000399143704735425
