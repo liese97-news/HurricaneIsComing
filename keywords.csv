@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.05234838416883284
-'Hurrikan',de,Hazard,#4287e5,#4287f5,2,0.0362219377020803
+'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0523483841688328
+'Hurrikan',de,Hazard,#4287e5,#4287f5,2,0.03498909704676825
 'Wirbelsturm',de,Hazard,#3287e5,#4287f5,1,0.0310434362831923
 'Wirbelsturm Schäden',de,Impacts,#12a8e5,#02a7f5,1,0.0270659602611745
 'Hurrikan Ozean',de,Causes,#b28765,#b28765,1,0.0240879263803621
