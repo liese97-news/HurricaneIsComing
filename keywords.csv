@@ -8,8 +8,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,1,0.0212684577181383
 'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0209889932718734
 'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,1,0.0202278382628493
-'Taifun',de,Hazard,#5287f5,#4287f5,1,0.0196368042866239
 'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,1,0.0183818876656927
+'Taifun',de,Hazard,#5287f5,#4287f5,1,0.017141328643630313
 'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.0156759607624328
 'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.0072307645945273
-'Medicane',de,Hazard,#3297f5,#4287f5,1,4.1019866630919915e-05
+'Medicane',de,Hazard,#3297f5,#4287f5,1,4.101986663091992e-05
