@@ -8,7 +8,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hurrikan Ozean',de,Causes,#b28765,#b28765,1,0.0204747374233077
 'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,1,0.0202278382628493
 'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,1,0.0164765717013548
-'Taifun',de,Hazard,#5287f5,#4287f5,1,0.016070279347085752
+'Taifun',de,Hazard,#5287f5,#4287f5,1,0.015159887445022845
 'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.0113258816508576
 'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,1,0.0112887767626933
 'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.0061461499053482
