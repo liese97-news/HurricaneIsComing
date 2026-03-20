@@ -1,6 +1,6 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Taifun',de,Hazard,#5287f5,#4287f5,1,0.0177603097137084
-'Hurrikan',de,Hazard,#4287e5,#4287f5,2,0.017722251570308444
+'Hurrikan',de,Hazard,#4287e5,#4287f5,2,0.0177222515703084
+'Taifun',de,Hazard,#5287f5,#4287f5,1,0.01719647325665214
 'Wirbelsturm',de,Hazard,#3287e5,#4287f5,1,0.0150538391305073
 'Hurrikan Ozean',de,Causes,#b28765,#b28765,1,0.0147929977883397
 'Wirbelsturm Schäden',de,Impacts,#12a8e5,#02a7f5,1,0.0146987699298346
