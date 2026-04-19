@@ -11,5 +11,5 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wirbelsturm Schäden',de,Impacts,#12a8e5,#02a7f5,1,0.008049585498167
 'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,1,0.0067253952749806
 'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0029370677147336
-'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.001611013307134065
-'Medicane',de,Hazard,#3297f5,#4287f5,1,0.0012046607559459
+'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.001611013307134
+'Medicane',de,Hazard,#3297f5,#4287f5,1,0.001023961642554015
