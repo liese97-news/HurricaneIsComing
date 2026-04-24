@@ -1,7 +1,7 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Tropensturm',de,Hazard,#5297f5,#4287d5,1,0.03926907931376648
-'Wirbelsturm',de,Hazard,#3287e5,#4287f5,2,0.0264335167014299
+'Tropensturm',de,Hazard,#5297f5,#4287d5,1,0.0392690793137664
 'Hurrikan',de,Hazard,#4287e5,#4287f5,1,0.0227294448121329
+'Wirbelsturm',de,Hazard,#3287e5,#4287f5,1,0.02246878919621542
 'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.0219958933632267
 'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,1,0.0126583197606723
 'Taifun',de,Hazard,#5287f5,#4287f5,1,0.0126458271473051
