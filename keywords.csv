@@ -10,6 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hurrikan Warnung',de,Mitigation,#b437cf,#b237ff,1,0.0070789666855463
 'Wirbelsturm Schäden',de,Impacts,#12a8e5,#02a7f5,1,0.0070539253605774
 'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,1,0.0048379291357473
-'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0006802746551133799
-'Medicane',de,Hazard,#3297f5,#4287f5,1,0.0004543372205973
+'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0006802746551133
 'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.0004389858619056
+'Medicane',de,Hazard,#3297f5,#4287f5,1,0.000386186637507705
