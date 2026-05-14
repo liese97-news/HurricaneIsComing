@@ -1,5 +1,5 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
-'Hurrikan',de,Hazard,#4287e5,#4287f5,2,0.02537366481078143
+'Hurrikan',de,Hazard,#4287e5,#4287f5,2,0.0253736648107814
 'Taifun',de,Hazard,#5287f5,#4287f5,1,0.0247506824808181
 'Tropensturm',de,Hazard,#5297f5,#4287d5,1,0.0198437208733841
 'Wirbelsturm',de,Hazard,#3287e5,#4287f5,2,0.0197207307854652
@@ -12,4 +12,4 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,1,0.0048379291357473
 'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0004177736725714
 'Medicane',de,Hazard,#3297f5,#4287f5,1,0.0002790198455992
-'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.0002291533635762
+'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.00019478035903977
