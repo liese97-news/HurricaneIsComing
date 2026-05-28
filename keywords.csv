@@ -3,13 +3,13 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hurrikan',de,Hazard,#4287e5,#4287f5,1,0.0186410001083857
 'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.0151595181241915
 'Wirbelsturm',de,Hazard,#3287e5,#4287f5,1,0.0150138924186237
-'Tropensturm',de,Hazard,#5297f5,#4287d5,1,0.0144646010810199
+'Tropensturm',de,Hazard,#5297f5,#4287d5,1,0.012294910918866914
 'Hurrikan Ozean',de,Causes,#b28765,#b28765,1,0.0098968068853962
 'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,1,0.0062983106430088
 'Hurrikan Warnung',de,Mitigation,#b437cf,#b237ff,1,0.0060171216827143
 'Wirbelsturm Schäden',de,Impacts,#12a8e5,#02a7f5,1,0.0048567730715047
 'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,1,0.0044897096737457
 'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,1,0.0041288339929907
-'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.000157563138250955
+'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0001575631382509
 'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.0001407288094061
 'Medicane',de,Hazard,#3297f5,#4287f5,1,7.603026422349924e-05
