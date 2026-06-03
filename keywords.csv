@@ -10,6 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wirbelsturm Schäden',de,Impacts,#12a8e5,#02a7f5,1,0.0048567730715047
 'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,1,0.0038162532226838
 'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,1,0.0029830825599357
-'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.0001196194879951
+'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.000101676564795835
 'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,8.224894293652949e-05
 'Medicane',de,Hazard,#3297f5,#4287f5,1,4.669208601625647e-05
