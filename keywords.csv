@@ -7,8 +7,8 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hurrikan Warnung',de,Mitigation,#b437cf,#b237ff,1,0.0060171216827143
 'Hurrikan Ozean',de,Causes,#b28765,#b28765,1,0.0051661950492197
 'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,1,0.0048280571895737
-'Wirbelsturm Schäden',de,Impacts,#12a8e5,#02a7f5,1,0.003509018544162
-'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,1,0.00275724295338902
+'Wirbelsturm Schäden',de,Impacts,#12a8e5,#02a7f5,1,0.0031326807625377
+'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,1,0.002757242953389
 'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,1,0.0021552771495535
 'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,4.293446226876175e-05
 'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,3.834726716314989e-05
