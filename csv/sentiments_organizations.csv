@@ -1,7 +1,7 @@
 ,phrase,label,sentiment,subjectivity,language,count
+GEO,GEO,ORG,1.607142857142857,0.0,de,5.6000000000000005
 Deutschen Wetterdienstes,Deutschen Wetterdienstes,ORG,-1.0204081632653061,0.0,de,4.9
 NHC,NHC,ORG,-0.8061224489795918,0.0,de,4.9
-GEO,GEO,ORG,1.702127659574468,0.0,de,4.7
 WM-Auftakt,WM-Auftakt,ORG,0.0,0.0,de,3.6999999999999997
 D…,D…,ORG,0.0,0.0,de,3.0
 Zentrum des Wirbelsturms,Zentrum des Wirbelsturms,ORG,-0.11666666666666665,0.16666666666666666,de,3.0
@@ -11,18 +11,18 @@ Zentrum des Wirbelsturms,Zentrum des Wirbelsturms,ORG,-0.11666666666666665,0.166
 Fidschi,Fidschi,ORG,0.0,0.0,de,2.8
 US-Hurrikanzentrum,US-Hurrikanzentrum,ORG,-0.6071428571428572,0.0,de,2.8
 DWD,DWD,ORG,-1.0,0.0,de,2.0
+US-Hurrikanzentrum NHC,US-Hurrikanzentrum NHC,ORG,-0.5,0.0,de,2.0
+Hamas,Hamas,ORG,0.0,0.0,de,2.0
 israelischen Armee,israelischen Armee,ORG,0.0,0.0,de,2.0
 we…,we…,ORG,0.0,0.0,de,2.0
-Hamas,Hamas,ORG,0.0,0.0,de,2.0
-US-Hurrikanzentrum NHC,US-Hurrikanzentrum NHC,ORG,-0.5,0.0,de,2.0
 jamaikanischen Polizei,jamaikanischen Polizei,ORG,0.0,0.0,de,2.0
 Rote Kreuz,Rote Kreuz,ORG,-0.7,0.0,de,2.0
 Haitis Regierung,Haitis Regierung,ORG,0.35,0.0,de,2.0
 Muni…,Muni…,ORG,0.0,0.0,de,1.9
+CTG,CTG,ORG,0.0,0.0,de,1.9
 TTS-Player,TTS-Player,ORG,0.0,0.0,de,1.9
 Shell,Shell,ORG,-0.3684210526315789,0.0,de,1.9
 U.S.…,U.S.…,ORG,0.0,0.0,de,1.9
-CTG,CTG,ORG,0.0,0.0,de,1.9
 https://epaper.welt.de,https://epaper.welt.de,ORG,0.0,0.0,de,1.8
 KI-Modell,KI-Modell,ORG,0.0,0.0,de,1.7
 Sonnta…,Sonnta…,ORG,0.0,0.0,de,1.0
