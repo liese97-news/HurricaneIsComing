@@ -4,7 +4,7 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Wirbelsturm',de,Hazard,#3287e5,#4287f5,1,0.0511266145635524
 'Hurrikan',de,Hazard,#4287e5,#4287f5,1,0.0188705711097772
 'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,1,0.0036284719590468
-'Hurrikan Ozean',de,Causes,#b28765,#b28765,1,0.0031748276537866145
+'Hurrikan Ozean',de,Causes,#b28765,#b28765,1,0.0028486185057186096
 'Hurrikan Warnung',de,Mitigation,#b437cf,#b237ff,1,0.0026698288565791
 'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.0025368429356735
 'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,1,0.0022847604905523
