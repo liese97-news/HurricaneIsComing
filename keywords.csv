@@ -1,13 +1,13 @@
 keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Tropensturm',de,Hazard,#5297f5,#4287d5,1,0.0735569099096047
 'Taifun',de,Hazard,#5287f5,#4287f5,2,0.0617472750789199
-'Wirbelsturm',de,Hazard,#3287e5,#4287f5,2,0.02677791842423877
+'Wirbelsturm',de,Hazard,#3287e5,#4287f5,2,0.0267779184242387
 'Hurrikan',de,Hazard,#4287e5,#4287f5,1,0.017646888876814
 'Wirbelsturm Schäden',de,Impacts,#12a8e5,#02a7f5,1,0.0040467045766718
 'Tropischer Wirbelsturm',de,Hazard,#4297d5,#4287f5,1,0.0033860761043495
 'Wirbelstürme Klimawandel',de,Causes,#a29745,#b28765,1,0.0028883632044239
-'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.0024563464953224
 'Hurrikan Warnung',de,Mitigation,#b437cf,#b237ff,1,0.0024193695280922
+'Hurrikan Ausläufer',de,Impacts,#12a7d5,#02a7f5,1,0.0023879245210240404
 'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,1,0.0017513248269621
 'Hurrikan Ozean',de,Causes,#b28765,#b28765,1,0.0016702824812417
 'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.0001644776532361
