@@ -10,6 +10,6 @@ keyword,language,topic,topicColor,keywordColor,limitPages,ratioNew
 'Hurrikan Ozean',de,Causes,#b28765,#b28765,1,0.0023831983715172
 'Wirbelsturm Tote',de,Impacts,#02a7f5,#02a7f5,1,0.0017886561029177
 'Hurrikan Warnung',de,Mitigation,#b437cf,#b237ff,1,0.0017216938989395
-'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.0009428915263790501
+'Zyklon Windgeschwindigkeit',de,Hazard,#32a7f5,#4287c5,1,0.000942891526379
 'Hurrikan Evakuierung',de,Mitigation,#a227ff,#b237ff,1,0.0002898210052506
-'Medicane',de,Hazard,#3297f5,#4287f5,1,1.580904650138946e-07
+'Medicane',de,Hazard,#3297f5,#4287f5,1,1.343768952618104e-07
